@@ -72,3 +72,7 @@ Register By: 212224240018
 ```
 
 ![Screenshot 2025-05-29 210858](https://github.com/user-attachments/assets/95498bf2-0d3a-442f-972d-e16500e597d9)
+
+## Result:
+
+A motion tweening, shape tweening, guide layer and masking using Flash was created successfully.
